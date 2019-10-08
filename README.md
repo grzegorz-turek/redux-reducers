@@ -1,0 +1,1 @@
+Redux exercise for defining actions and writing actions' creators
